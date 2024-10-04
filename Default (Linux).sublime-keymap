@@ -1,0 +1,14 @@
+[
+    { 
+        "keys": ["ctrl+shift+c"], 
+        "command": "cin_input" 
+    },
+    { 
+        "keys": ["ctrl+shift+f"], 
+        "command": "clang_format" 
+    },
+    { 
+        "keys": ["super+n"], 
+        "command": "new_snippet" 
+    }
+]

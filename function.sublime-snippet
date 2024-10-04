@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+${1:void} ${2:functionName}(${3:int arg}) {
+    $0 // Placeholder for function body
+}
+
+]]></content>
+  <tabTrigger>fnc</tabTrigger>
+  <description></description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope >source.python</scope > -->
+</snippet>
